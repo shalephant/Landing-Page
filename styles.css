@@ -7,7 +7,6 @@ body {
 
 .header {
     background-color: #1F2937;
-    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -17,4 +16,10 @@ ul {
     display: flex;
     list-style: none;
     gap: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
