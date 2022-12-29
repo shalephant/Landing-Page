@@ -37,6 +37,10 @@ ul {
     flex: 1;f
 }
 
+img {
+    width: 500px;
+    height: auto;
+}
 .left {
     width: 500px;
 }
@@ -102,7 +106,6 @@ h2 {
 .quote {
     background-color: #E5E7EB;
     padding: 100px 600px;
-    width: 800px;
 }
 
 .quote-text {
@@ -151,4 +154,11 @@ h2 {
     margin-top: 10px;
     margin-bottom: -20px;
     font-size: 24px;
+}
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 30px;
 }
